@@ -1,4 +1,4 @@
-my name is ipzone i am a junior programmer i like cats miauww...
+my name is ipzone i am a junior programmer
 
 
 <!---

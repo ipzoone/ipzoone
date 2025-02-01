@@ -24,10 +24,10 @@ Jika kamu tertarik untuk berdiskusi, berkolaborasi, atau sekedar ingin berbagi i
 
 - **Email:** mrzone44@gmail.com
 - **LinkedIn:** [Saif Ali Mushaddiq](#https://www.linkedin.com/in/saif-ali-mushaddiq-681b32310)
-- **Instagram,:** [@ipzonex](#https://www.instagram.com/ipzonex?igsh=cno5dTBkNXg0Zmtm)
+- **Instagram:** [@ipzonex](#https://www.instagram.com/ipzonex?igsh=cno5dTBkNXg0Zmtm)
 
 ---
 
 Terima kasih telah mengunjungi profil saya. Mari bersama-sama berinovasi dan menciptakan sesuatu yang berarti di dunia teknologi!
 
-**IPZONEX**
+**./IPZONEX**

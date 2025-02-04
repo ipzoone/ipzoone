@@ -7,10 +7,10 @@ Selamat datang di profil GitHub saya! Saya adalah seorang pengembang, peneliti, 
 - **Nama:** Saif Ali Mushaddiq
 - **Bidang:** Pengembangan perangkat lunak, keamanan siber, dan eksplorasi teknologi terbaru.
 - **Keahlian:**  
-  - Pemrograman (Python, php, C++ dan lainnya)
+  - Pemrograman (Python, PHP, C++ dan lainnya)
   - Pengembangan web dan aplikasi
   - Riset keamanan dan teknologi informasi
-  - Malware analisis
+  - Malware analyst
 - **Minat:**  
   - Membangun solusi kreatif untuk permasalahan sehari-hari  
   - Mempelajari dan menerapkan konsep-konsep baru di dunia digital  

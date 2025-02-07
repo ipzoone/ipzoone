@@ -23,7 +23,7 @@ _Seluruh proyek yang saya kembangkan dibangun dengan semangat kolaborasi dan ino
 Jika kamu tertarik untuk berdiskusi, berkolaborasi, atau sekedar ingin berbagi ide, jangan ragu untuk menghubungi saya melalui:
 
 - **Email:** mrzone44@gmail.com
-- **LinkedIn:** [Saif Ali Mushaddiq](#https://www.linkedin.com/in/saif-ali-mushaddiq-681b32310)
+- **LinkedIn:** (https://www.linkedin.com/in/saif-ali-mushaddiq-681b32310)
 - **Instagram:** (https://www.instagram.com/ipzonex?igsh=cno5dTBkNXg0Zmtm)
 
 ---

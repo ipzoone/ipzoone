@@ -72,9 +72,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IPZONEX/IPZONEX/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IPZONEX/IPZONEX/output/github-contribution-grid-snake.svg" />
-  <img alt="animasi ular memakan kontribusi github" src="https://raw.githubusercontent.com/IPZONEX/IPZONEX/output/github-contribution-grid-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ipzoone/ipzoone/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ipzoone/ipzoone/output/github-contribution-grid-snake.svg" />
+  <img alt="animasi ular memakan kontribusi github" src="https://raw.githubusercontent.com/ipzoone/ipzooneoutput/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 </div>
@@ -84,12 +84,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=IPZONEX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IPZONEX&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ipzoone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ipzoone&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IPZONEX&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipzoone&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
 </div>
 
 <br/>

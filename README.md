@@ -109,8 +109,8 @@ Jika kamu tertarik untuk berdiskusi, berkolaborasi, atau sekedar ingin berbagi i
 </div>
 ### 🏅 Google Developer Achievements
 
-[![GDG Bandung Member](https://shields.io)](https://google.com)
-[![Google Developer Member](https://shields.io)](https://google.com)
+[![GDG Bandung Member](https://shields.io)](https://developers.google.com/profile/badges/community/gdg/chapter/member/gdg-bandung)
+[![Google Developer Member](https://shields.io)](https://developers.google.com/profile/badges/community/gdg/member)
 
 
 <br/>

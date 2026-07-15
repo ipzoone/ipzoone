@@ -107,6 +107,11 @@ Jika kamu tertarik untuk berdiskusi, berkolaborasi, atau sekedar ingin berbagi i
 <a href="https://www.instagram.com/ipzonex?igsh=cno5dTBkNXg0Zmtm"><img src="https://img.shields.io/badge/Instagram-%40ipzonex-purple?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 </div>
+### 🏅 Google Developer Achievements
+
+[![GDG Bandung Member](https://shields.io)](https://google.com)
+[![Google Developer Member](https://shields.io)](https://google.com)
+
 
 <br/>
 

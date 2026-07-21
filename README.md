@@ -63,9 +63,12 @@
 ## 🎯 Minat & Fokus
 
 ```
-🔹 Membangun solusi kreatif untuk permasalahan sehari-hari
-🔹 Mempelajari & menerapkan konsep-konsep baru di dunia digital
-🔹 Berkontribusi pada proyek open-source dan komunitas teknologi
+🔹 Membangun solusi kreatif
+untuk permasalahan sehari-hari
+🔹 Mempelajari & menerapkan
+konsep-konsep baru di dunia digital
+🔹 Berkontribusi pada proyek
+open-source dan komunitas teknologi
 ```
 
 > _Seluruh proyek yang saya kembangkan dibangun dengan semangat kolaborasi dan inovasi. Saya terbuka untuk masukan dan kontribusi dari komunitas._
